@@ -1,5 +1,23 @@
 {
   "dependencies": {
     "express": "^4.17.3"
-  }
+  },
+  "name": "aula-api",
+  "version": "1.0.0",
+  "main": "sever.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/elienemas/AULA-API.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/elienemas/AULA-API/issues"
+  },
+  "homepage": "https://github.com/elienemas/AULA-API#readme",
+  "description": ""
 }
